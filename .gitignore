@@ -1,0 +1,6 @@
+# Dependências do Node
+/node_modules
+
+# Arquivos de log e temporários do npm
+npm-debug.log*
+.DS_Store
